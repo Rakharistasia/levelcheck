@@ -1,6 +1,6 @@
 # EQ Might - EMU - LevelCheck
 
-Finds gear your characters could no longer wear if they dropped to a lower level - useful on servers with a delevel mechanic (written for EQ Might, works on any EQEmu server with MacroQuest).
+Finds gear your characters could no longer wear if they dropped to a lower level - useful on servers with a delevel mechanic (written for EQ Might, works on any EQEmu server with MacroQuest). Written with Claude Opus 5.5, MQ command and agents by Knightly and Redguides.md.
 
 It scans worn gear, bags, bank and shared bank, including augments socketed in items, and lists every item with a Required Level or Recommended Level. Anything above your target level is flagged:
 
