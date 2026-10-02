@@ -1,4 +1,4 @@
-# LevelCheck
+# EQ Might - EMU - LevelCheck
 
 Finds gear your characters could no longer wear if they dropped to a lower level - useful on servers with a delevel mechanic (written for EQ Might, works on any EQEmu server with MacroQuest).
 
